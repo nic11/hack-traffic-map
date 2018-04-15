@@ -1,0 +1,143 @@
+body {
+	background: url(img/background_light.jpg);
+	padding: 0;
+	margin: 0;
+}
+
+#header {
+	height: 170px;
+	border-style: none;
+	padding: 0;
+	background-color: rgba(255, 248, 220, 1);
+}
+
+h1 {
+	font-size: 50px;
+}
+
+.logo_p {
+	font-family: 'Times New Roman', Times, serif;
+	/* Гарнитура текста */
+	border-style: none;
+	font-size: 200%;
+	text-align: center;
+}
+
+.logo_img_cup {
+	width: 200px;
+	height: 150px;
+	border-style: none;
+}
+
+.logo_img_fifa {
+	width: 350px;
+	height: 150px;
+	border-style: none;
+}
+
+.img_logo_s7 {
+	width: 150px;
+	height: 150px;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+
+.img_logo_diht {
+	width: 319px;
+	height: 150px;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+
+.img_logo_1c {
+	width: 250px;
+	height: 150px;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+
+.date {
+	background-repeat: no-repeat;
+	background-position: 300px;
+	width: 200px;
+	padding: 12px;
+	margin-top: 8px;
+	font-family: Cursive;
+	line-height: 1;
+	border-radius: 5px;
+	background-color: #FFDEAD;
+	color: #A0522D;
+	font-size: 20px;
+	-webkit-appearance: none;
+	box-shadow: inset 0 0 10px 0 rgba(0, 0, 0, 0.6);
+	outline: none
+}
+
+#map {
+	float: right;
+	border: 10px;
+}
+
+#panel {
+	margin-top: 70px;
+	float: left;
+	width: 700px;
+	background-color: rgba(255, 248, 220, 0.6);
+	padding: 5px;
+	/* Поля вокруг текста */
+}
+
+select {
+	background-repeat: no-repeat;
+	background-position: 300px;
+	width: 200px;
+	padding: 12px;
+	margin-top: 8px;
+	font-family: Cursive;
+	line-height: 1;
+	border-radius: 5px;
+	background-color: #FFDEAD;
+	color: #A0522D;
+	font-size: 20px;
+	-webkit-appearance: none;
+	box-shadow: inset 0 0 10px 0 rgba(0, 0, 0, 0.6);
+	outline: none
+}
+
+.addBtn, .delBtn {
+	width: 50px;
+	height: 50px;
+	background: linear-gradient(to bottom, #FFFAFA, #FFE4E1);
+	border-radius: 100%;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.delBtn {
+	vertical-align: middle;
+}
+
+#cities .line span {
+	font-size: 40px;
+}
+
+.btn {
+	background: #FFFAFA;
+	background-image: -webkit-linear-gradient(top, #FFFAFA, #FFE4E1);
+	background-image: -moz-linear-gradient(top, #FFFAFA, #FFE4E1);
+	background-image: -ms-linear-gradient(top, #FFFAFA, #FFE4E1);
+	background-image: -o-linear-gradient(top, #FFFAFA, #FFE4E1);
+	background-image: linear-gradient(to bottom, #FFFAFA, #FFE4E1);
+	-webkit-border-radius: 28;
+	-moz-border-radius: 28;
+	border-radius: 28px;
+	font-family: Arial;
+	color: #000080;
+	font-size: 20px;
+	padding: 10px 20px 10px 20px;
+	text-decoration: none;
+}
+
+.btn:hover {
+	background: #FA8072;
+	text-decoration: none;
+}

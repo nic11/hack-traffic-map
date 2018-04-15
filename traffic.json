@@ -1,0 +1,8251 @@
+[{
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 1265
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 2531
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-14",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 6328
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 10125
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 1489
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 1489
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-15",
+    "traffic": 1115
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-15",
+    "traffic": 2231
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-15",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 12657
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 15188
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 1375
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 687
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 1388
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 1388
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 1409
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 1409
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 1100
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 550
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 5957
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 5957
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-16",
+    "traffic": 4462
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-16",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-16",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 13922
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 10125
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 5500
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 3437
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 1265
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 5555
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 5555
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 5638
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 5638
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 12775
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 12775
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 4401
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 2750
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 8936
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 8936
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-17",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-17",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-17",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 12656
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 2531
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 8250
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 6875
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 6328
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 8332
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 8332
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 8457
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 8457
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 1416
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 1416
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 1424
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 712
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 6602
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 5501
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 7446
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 5957
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 744
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-18",
+    "traffic": 4462
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-18",
+    "traffic": 2231
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-18",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 8464
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 8464
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 13922
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 1375
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 5500
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 6875
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 12657
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 1375
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 5555
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 1388
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 6943
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 8401
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 8401
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 5638
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 5638
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 1064
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 1064
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 5666
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 5666
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 5696
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 3559
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 4401
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 5501
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 7446
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 1489
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 3723
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-19",
+    "traffic": 1115
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-19",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 12657
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 2531
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 5500
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 1375
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 3437
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 2531
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 12657
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 5500
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 1388
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 5555
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 6943
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 1409
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 1409
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 1409
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 1409
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 5322
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 5322
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 8544
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 7120
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 1100
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 2750
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 8936
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 7446
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-20",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 6328
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 10125
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 8250
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 687
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 10125
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 6328
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 8250
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 8332
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 8332
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 5638
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 5638
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 10645
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 10645
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 7082
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 1416
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 5666
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 5696
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 7120
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 550
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 5957
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 7446
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-21",
+    "traffic": 1115
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-21",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-21",
+    "traffic": 1115
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 8464
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 8464
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 1265
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 15188
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 5500
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 15188
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 1265
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 5500
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 5555
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 5555
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 8457
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 8457
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 10645
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 10645
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 7082
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 5666
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 1416
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 2848
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 1424
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 2848
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 3559
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 1100
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 1100
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 1489
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 3723
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-22",
+    "traffic": 4462
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-22",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-22",
+    "traffic": 4462
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 2821
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 5643
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 2821
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 11500
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 1375
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 11500
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 1375
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 1388
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 1388
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 8401
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 8401
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 5638
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 5638
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 5322
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 5322
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 8544
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 8544
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 712
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 4401
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 4401
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 2978
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 744
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-23",
+    "traffic": 2978
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-23",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-23",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-23",
+    "traffic": 6693
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 8464
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 1410
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 8464
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 8031
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 8031
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 5600
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 1409
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 2819
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 2819
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 1409
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 12775
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 1064
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 12775
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 1064
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 5666
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 2833
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 5666
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 2833
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 8544
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 8544
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 6602
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 6602
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 8936
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-24",
+    "traffic": 8936
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-24",
+    "traffic": 4462
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-24",
+    "traffic": 2231
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-24",
+    "traffic": 2231
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-24",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-24",
+    "traffic": 4462
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 8464
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 8464
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 8250
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 8250
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 1400
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 8457
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 8457
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 8516
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 1416
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 1416
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 2848
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 2848
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 4401
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 4401
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 8936
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-25",
+    "traffic": 8936
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-25",
+    "traffic": 1115
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-25",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-25",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-25",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-25",
+    "traffic": 1115
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 2821
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 2821
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 5500
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 5500
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 8457
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 8457
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 2129
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 8499
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 1100
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 1100
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 2978
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-26",
+    "traffic": 2978
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-26",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-26",
+    "traffic": 6693
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-26",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 1375
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 1375
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 2819
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 2819
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 2833
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 2833
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-27",
+    "traffic": 2231
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-27",
+    "traffic": 2231
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-27",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Rostov-on-Don",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Moscow",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Saransk",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Samara",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kazan",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Petersburg",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Nizhny Novgorod",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Volgograd",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Kaliningrad",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Sochi",
+    "to": "Yekaterinburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Rostov-on-Don",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Moscow",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Saransk",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Samara",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kazan",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Petersburg",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Nizhny Novgorod",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Volgograd",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Kaliningrad",
+    "date": "2018-06-28",
+    "traffic": 0
+}, {
+    "from": "Yekaterinburg",
+    "to": "Sochi",
+    "date": "2018-06-28",
+    "traffic": 0
+}]
